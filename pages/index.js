@@ -55,7 +55,7 @@ export default function Home() {
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/rp7quiz" />
+      <GitHubCorner projectUrl="https://github.com/raulpe7eira/rp7quiz" />
     </QuizBackground>
   );
 }
