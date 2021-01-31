@@ -1,38 +1,64 @@
 {
 	"bg": "https://raulpe7eira.tech/images/cover.jpg",
-	"title": "rp7quiz",
-	"description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+	"title": " Quem sou eu?!",
+	"description": "Teste os seus conhecimentos sobre mim e vamos ver se me conhece um cadinho",
 	"questions": [
 	  {
-		"image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-		"title": "Como fazer um seletor por id via CSS?",
+		"image": "https://media.giphy.com/media/XEVHJomASYLxon91Ut/giphy.gif",
+		"title": "Qual meu esporte favorito?",
 		"description": "Essa é pra aquecer",
-		"answer": 2,
+		"answer": 3,
 		"alternatives": [
-		  ".elemento",
-		  "*elemento",
-		  "#elemento",
-		  "%elemento"
+		  "futebol",
+		  "natação",
+		  "surf",
+		  "ciclismo"
 		]
 	  },
 	  {
-		"image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-		"title": "Como fazer um background gradiente com css?",
-		"description": "Faz tempo em haha",
+		"image": "https://media.giphy.com/media/M8Q94NCWLqURTLvRz0/giphy.gif",
+		"title": "Qual modalidade?",
+		"description": "Será?!",
+		"answer": 2,
+		"alternatives": [
+		   "mtb",
+		   "estrada",
+		   "cicloturismo",
+		   "downhill"
+		]
+	  },
+	  {
+		"image": "https://media.giphy.com/media/HTzK6pZb2ETTBgGmEg/giphy.gif",
+		"title": "Já viajou de bicicleta?",
+		"description": "Será?!",
 		"answer": 0,
 		"alternatives": [
-		   "background: linear-gradient(#e66465, #9198e5);",
-		   "background: gradient(#e66465, #9198e5);"
+		   "sim",
+		   "não"
+		]
+	  },
+	  {
+		"image": "https://media.giphy.com/media/26gJAJQ2OVynPuTYY/giphy.gif",
+		"title": "Qual foi sua maior viagem?",
+		"description": "Não faz tanto tempo em haha",
+		"answer": 1,
+		"alternatives": [
+		   "casar",
+		   "ter filhos",
+		   "nordeste",
+		   "florianópolis"
 		]
 	  }
 	],
 	"external": [
-	  ""
+	  "https://imersao-react-project.brenonortega.vercel.app",
+	  "https://aluraquiz.edlanioj.vercel.app",
+	  "https://shinquiz-git-main.renanshin.vercel.app"
 	],
 	"theme": {
 	  "colors": {
-		"primary": "#0d47a1",
-		"secondary": "#29b6f6",
+		"primary": "#4caf50",
+		"secondary": "#8bc34a",
 		"mainBg": "#171B35",
 		"contrastText": "#FFFFFF",
 		"wrong": "#FF5722",
