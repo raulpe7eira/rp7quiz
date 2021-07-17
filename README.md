@@ -11,7 +11,7 @@ This repository is the code corresponding to the [imersão react lab](https://ww
 ## Local usage
 
 ```bash
-$ npm run dev
+npm run dev
 ```
 
 ## Deploying :rocket:
