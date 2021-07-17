@@ -1,6 +1,6 @@
-# Imersão React Next.js | RP7QUIZ App
+# Imersão React (2ª Edition) | rp7quiz App
 
-This repository is the code corresponding to the [imersão react next.js lab](https://www.alura.com.br/imersao-react-next-js).
+This repository is the code corresponding to the [imersão react lab](https://www.alura.com.br/imersao-react-next-js).
 
 ## Installation
 
