@@ -1,4 +1,4 @@
-# Imersão React (2ª Edition) | rp7quiz App
+# Imersão React (2ª Edition) | rp7quiz
 
 This repository is the code corresponding to the [imersão react lab](https://www.alura.com.br/imersao-react-next-js).
 
